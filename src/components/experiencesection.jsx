@@ -224,7 +224,7 @@ export default function ExperienceSection() {
                 padding: '0.6rem 1rem', borderLeft: '2px solid var(--gold)',
               }}>
                 <p style={{ fontSize: '0.55rem', letterSpacing: '0.22em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: '3px' }}>
-                 Senior Client Manager
+                 Client Manager
                 </p>
                 <p style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: '0.9rem', color: 'var(--text)' }}>
                   Origin8 Limited

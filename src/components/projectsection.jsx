@@ -18,7 +18,7 @@ const projects = [
     objective: 'To build brand awareness in Ghana and position Xoom as a fast, secure, and trusted option for receiving money from abroad..',
     approach: 'Executed a multi-channel campaign combining radio (LPM), premium news platforms, and digital display advertising to drive awareness, credibility, and engagement.',
     role: 'Led campaign strategy, creative direction, and execution across media planning, content development, and performance reporting.',
-    tags: ['Brand Awareness', 'Media Placement', 'Experiential Marketing', 'Publicity'],
+    tags: ['Brand Awareness', 'Digital Marketing', 'Media Placement'],
   },
   {
     index: '02',
@@ -30,7 +30,7 @@ const projects = [
     objective: 'Strengthen brand affinity through impactful community and CSR events, from annual scholarship presentations to environmental and stakeholder engagement initiatives.',
     approach: "Planned and executed community-driven events within both Administration & Operational areas of work with strong media coverage to showcase Karpowership's social impact.",
     role: 'Led event planning, logistics, and on-ground coordination. Managed press relations, photography, content dissemination, and media monitoring to ensure national visibility and positive public perception.',
-    tags: ['CSR Events', 'Press Relations', 'Event Planning', 'Media Monitoring'],
+    tags: ['CSR Events', 'Public Relations', 'Event Planning', 'Media Monitoring'],
   },
   {
     index: '03',
@@ -42,7 +42,7 @@ const projects = [
     objective: 'Enhance public awareness and strengthen trust in NBC Ghana Trust as a reliable pension partner through consistent, engaging, and professional communication.',
     approach: 'Developed and managed annual communication plans focusing on social media visibility, branding consistency, and stakeholder engagement.',
     role: 'Led content planning and social media management, supervised creative design and collateral production, and ensured cohesive visual communication across all platforms.',
-    tags: ['Social Media', 'Content Strategy', 'Branding', 'Stakeholder Engagement'],
+    tags: ['Digital Marketing', 'Content Strategy', 'Strategic Communications'],
   },
   {
     index: '04',
@@ -78,7 +78,7 @@ const projects = [
     objective: 'To increase brand awareness in Ghana and position DH Industries’ range of detergents, washing, and bathing soaps as market-leading products within the home and personal care category.',
     approach: 'Executed an integrated 360° marketing strategy combining ATL, BTL, digital marketing, and experiential campaigns. This included outdoor (OOH) advertising, radio, and on-ground market activations to enhance brand visibility, drive product trial, and strengthen consumer engagement across key markets.',
     role: 'Supported and progressively led campaign strategy and execution across multiple channels. Contributed to media planning, content development, and experiential activations, including field marketing and product sampling initiatives. Recently took on a more leading role in overseeing campaign execution, ensuring alignment with brand objectives, and supporting performance tracking and reporting.',
-    tags: ['Content Strategy', 'Strategic Communications', 'Media Coordination', 'Corporate Communications'],
+    tags: ['Content Strategy', 'Strategic Communications', 'Media Coordination'],
   },
 ];
 

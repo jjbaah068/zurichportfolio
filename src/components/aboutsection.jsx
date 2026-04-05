@@ -12,7 +12,6 @@ const skills = [
     'Event Planning & Mgt',
     'Digital Marketing',
     'Content Strategy',
-    'Client Relations',
     'Project Management',
     'Strategic Communications',
 ];

@@ -20,7 +20,7 @@ const degrees = [
     index: '03',
     title: 'BBA — Business Administration',
     school: 'University of Professional Studies, Accra (UPSA)',
-    period: 'Sept 2018 – Sept 2023',
+    period: 'Sept 2018 – Sept 2022',
     status: null,
   },
 ];
