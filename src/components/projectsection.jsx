@@ -54,7 +54,7 @@ const projects = [
     objective: 'Support the communication efforts of UN partner agencies by enhancing visibility, strengthening public awareness, and ensuring consistent brand representation across media and stakeholder platforms.',
     approach: 'For WFP Ghana — coordinated office branding, production of collaterals, and visibility materials. For UNODC Ghana — executed media coordination and publicity management for the Safer Children Online campaign, achieving wide coverage across digital and traditional platforms.',
     role: 'Managed strategic communication planning, content creation, and stakeholder outreach to amplify key messages and initiatives for both agencies.',
-    tags: ['Strategic Communications', 'UN Branding', 'Media Coordination', 'Content Creation'],
+    tags: ['Strategic Communications', 'Branding', 'Media Coordination', 'Content Creation'],
   },
   {
     index: '05',
@@ -66,7 +66,7 @@ const projects = [
     objective: 'Deliver high-impact events — from product launches to customer appreciation nights — that strengthen relationships, celebrate loyalty, and reinforce brand leadership in sustainable innovation.',
     approach: 'Turned each event into a storytelling platform through creative themes, experiential design, and seamless coordination. Integrated media visibility to extend engagement beyond the venue.',
     role: 'Led concept development, vendor and logistics coordination, guest experience, and press engagement — ensuring every event reflected brand excellence.',
-    tags: ['Event Production', 'Concept Development', 'Press Engagement', 'Experiential Design'],
+    tags: ['Strategic Communications', 'Concept Development', 'Content Strategy', 'Event Planning & Mgt'],
   },
   {
     index: '06',
@@ -78,7 +78,7 @@ const projects = [
     objective: 'To increase brand awareness in Ghana and position DH Industries’ range of detergents, washing, and bathing soaps as market-leading products within the home and personal care category.',
     approach: 'Executed an integrated 360° marketing strategy combining ATL, BTL, digital marketing, and experiential campaigns. This included outdoor (OOH) advertising, radio, and on-ground market activations to enhance brand visibility, drive product trial, and strengthen consumer engagement across key markets.',
     role: 'Supported and progressively led campaign strategy and execution across multiple channels. Contributed to media planning, content development, and experiential activations, including field marketing and product sampling initiatives. Recently took on a more leading role in overseeing campaign execution, ensuring alignment with brand objectives, and supporting performance tracking and reporting.',
-    tags: ['Content Strategy', 'Event Management', 'Media Coordination', 'Brand Engagement'],
+    tags: ['Content Strategy', 'Strategic Communications', 'Media Coordination', 'Corporate Communications'],
   },
 ];
 

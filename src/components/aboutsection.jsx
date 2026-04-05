@@ -1,15 +1,20 @@
 import { useReveal } from '../Usereveal';
 import aboutimg from '../assets/images/image2.jpeg';
+import cv from '../assets/OWURAKU_ARHIN_2026_CV..pdf';
+
+
+
+
 
 const skills = [
     'Media Relations',
     'Brand Strategy',
-    'Event Planning',
+    'Event Planning & Mgt',
     'Digital Marketing',
     'Content Strategy',
     'Client Relations',
     'Project Management',
-    'Social Media',
+    'Strategic Communications',
 ];
 
 const stats = [
@@ -122,8 +127,8 @@ export default function AboutSection() {
 
                             {/* CV download */}
                             <a
-                                href="./OWURAKU_ARHIN_2026_CV.pdf"
-                                download
+                                href={cv}
+                                download="Owuraku_Arhin_CV.pdf"
                                 className="reveal delay-500"
                                 style={{
                                     display: 'inline-flex', alignItems: 'center', gap: '0.5rem',
@@ -167,18 +172,18 @@ export default function AboutSection() {
                                 }} />
 
                                 {/* Badge */}
-                                <div style={{
+                                {/* <div style={{
                                     position: 'absolute', bottom: '1.2rem', right: '1.2rem',
                                     background: 'rgba(245,239,230,0.94)', backdropFilter: 'blur(6px)',
                                     padding: '0.6rem 1rem', borderLeft: '2px solid var(--terracotta)',
-                                }}>
-                                    <p style={{ fontSize: '0.55rem', letterSpacing: '0.22em', textTransform: 'uppercase', color: 'var(--terracotta)', marginBottom: '3px' }}>
+                                }}> */}
+                                {/* <p style={{ fontSize: '0.55rem', letterSpacing: '0.22em', textTransform: 'uppercase', color: 'var(--terracotta)', marginBottom: '3px' }}>
                                         Currently at
-                                    </p>
-                                    <p className="font-display" style={{ fontSize: '0.9rem', color: 'var(--text)' }}>
+                                    </p> */}
+                                {/* <p className="font-display" style={{ fontSize: '0.9rem', color: 'var(--text)' }}>
                                         Origin8 Limited
                                     </p>
-                                </div>
+                                </div> */}
                             </div>
 
                             {/* Skills */}
