@@ -6,7 +6,7 @@ const experiences = [
     index: '01',
     role: 'Senior Client Manager',
     company: 'Origin8 Limited',
-    period: 'Oct 2022 – Present',
+    period: '2022 – Present',
     location: 'Accra, Ghana',
     tag: 'Current Role',
     note: 'Leading client communications and brand strategy for key accounts in a dynamic marketing agency environment.',
